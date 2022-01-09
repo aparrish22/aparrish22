@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aparrish22
 - 👀 I’m interested in creating a music app!
 - 🌱 I’m currently learning React.
-- 📫 How to reach me: austinparrish101@yahoo.com
+- 📫 How to reach me: austinparrish101@outlook.com
 
 <!---
 aparrish22/aparrish22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
