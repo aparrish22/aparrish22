@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparrish22
 - 👀 I’m interested in creating a music app!
-- 🌱 I’m currently learning Front-End development!
+- 🌱 I’m currently learning NEXT.JS
 - 📫 How to reach me: austinparrish101@outlook.com
 
 <!---
