@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aparrish22! I'm a musician at heart, aspiring DM, & an ambitious Software Developer!
+- 👋 Hi, I’m @aparrish22! I'm a musician at heart, aspiring d&d DM, & an ambitious Software Developer!
 - 👀 I’m interested in creating a music app!
 - 🌱 I’m currently learning NEXT.JS & Front-end Design.
 - 📫 How to reach me: austinparrish101@outlook.com
