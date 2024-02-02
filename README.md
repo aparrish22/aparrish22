@@ -2,8 +2,7 @@
 
 - 👋 I'm a musician at heart, aspiring d&d DM, & an ambitious Software Developer!
 - 👀 I’m interested in creating a music app!
-- 🌱 I’m currently learning NEXT.JS & Front-end Design.
-- 📫 How to reach me: austinparrish101@yahoo.com
+- 🌱 I’m currently learning Angular, Front-end Design, and Next.js
 
 <!---
 aparrish22/aparrish22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
