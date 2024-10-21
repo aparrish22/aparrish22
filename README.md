@@ -1,8 +1,10 @@
 **Hi, I’m @aparrish22!** 
 
-- 👋 I'm a musician at heart, aspiring d&d DM, an ambitious Software Developer, and a grad student!
-- 👀 I’m interested in creating a music app!
-- 🌱 I’m currently learning Angular, Front-end Design, and Next.js
+- 📚 I am currently a graduate nursing student
+- 🎓 I graduated with a Bachelor's in Computer Science.
+- 👋 I am musician at heart, aspiring d&d DM, an ambitious Software Developer.
+- 👀 I am interested in creating a music app!
+- 🌱 I am learning Angular, Front-end Design, and Next.js
 
 <!---
 aparrish22/aparrish22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
