@@ -1,7 +1,7 @@
 **Hi, I’m @aparrish22! 👋**
 
 🎓 Background
-	- I am a graduate Nursing Student, blending my passion for healthcare and technology.
+	--* I am a graduate Nursing Student, blending my passion for healthcare and technology.
 	- I hold a Bachelor’s in Computer Science, with expertise in Software Development and System Administration.
 
 🎵 Beyond Coding
