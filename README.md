@@ -1,9 +1,19 @@
-## **Hi, I’m Austin! 👋**
+### **Hi, I’m Austin! 👋** Welcome to my Github
+
+# 🛠️ Featured Projects
+
+- [Simple JS TodoList](https://aparrish22.github.io/javascript-todolist/)
+  *A minimalist to-do list app built with vanilla JavaScript, featuring an intuitive interface, responsive design, and LocalStorage for persistent task management.* **Simple design, zero distractions.**
+- [Forge VTT Extraordinaire Discord Bot](https://github.com/aparrish22/extraordinaire-discord-bot)
+  *A Discord bot integrated with the Forge Virtual Tabletop API, designed to manage servers seamlessly and enhance gameplay.* **Roll for initiative, automate the rest.**
+- *Whispers of new ventures are stirring—soon, adventurers may find a place to trade their wares.* **Stay tuned!**
+
+#
 
 ### 🎓 Background
 
 - I am a graduate Nursing Student, blending my passion for healthcare and technology.
-- I hold a Bachelor’s in Computer Science, with expertise in Software Development and System Administration.
+- I hold a Bachelor’s in Computer Science, with expertise in Software Development, Architecture, and System Administration.
 
 ### 🎵 Beyond Coding
 
@@ -18,13 +28,6 @@
 ### 🌟 What Drives Me
 
 - I believe in using technology to solve real-world problems, create impactful user experiences and bring new and innovative ideas to life.
-
-#
-
-# 🛠️ Featured Projects
-
-- [Simple JS TodoList](https://aparrish22.github.io/javascript-todolist/)
-- [Simple JS TodoList Git Repo](../javascript-todolist)
 
 #
 
