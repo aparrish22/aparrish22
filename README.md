@@ -21,6 +21,13 @@
 
 #
 
+# 🛠️ Featured Projects
+
+- [Simple JS TodoList](https://aparrish22.github.io/javascript-todolist/)
+- [Simple JS TodoList Git Repo](../../javascript-todolist)
+
+#
+
 #### 📬 Connect with Me
 
 ##### Feel free to check out my repositories or reach out!
